@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Jasmin</h1>
 <h3>A passionate software developer from Bosnia</h3>
 
-(Prepare yourself for GPT bio :) )
+Prepare yourself for GPT bio 🤢 - Best on I have atm 🤣
 
 JavaScript ninja and part-time rock climber, I tackle bugs like they're boulders—quick, efficient, and maybe with a bit of chalk on my hands. Whether it's scaling cliffs or scaling web apps, I’m all about reaching new heights (and yes, puns intended)!
 
