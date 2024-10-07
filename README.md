@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Jasmin</h1>
+<h1>Hey there 👋, I'm Jasmin</h1>
 <h3>A passionate software developer from Bosnia</h3>
 
 Prepare yourself for GPT bio 🤢 - Best on I have atm 🤣
