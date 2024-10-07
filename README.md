@@ -65,3 +65,6 @@ JavaScript ninja and part-time rock climber, I tackle bugs like they're boulders
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
+
+
+[![CruxCoder's GitHub | Languages Over Time](https://stats.quira.sh/CruxCoder/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=CruxCoder)
