@@ -1,5 +1,5 @@
 <h1>Hey there 👋, I'm Jasmin</h1>
-<h3>A passionate software developer from Bosnia</h3>
+<h3>A software developer from Bosnia</h3>
 
 Prepare yourself for GPT bio 🤢 - Best on I have atm 🤣
 
@@ -67,6 +67,3 @@ JavaScript ninja and part-time rock climber, I tackle bugs like they're boulders
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
-
-
-[![CruxCoder's GitHub | Stats](https://stats.quira.sh/CruxCoder/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CruxCoder)
