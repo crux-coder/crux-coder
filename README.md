@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Jasmin</h1>
-<h3 align="center">A passionate software developer from Bosnia</h3>
+<h1>Hi there 👋, I'm Jasmin</h1>
+<h3>A passionate software developer from Bosnia</h3>
 
 - 🌱 I’m currently learning **Flutter, C**
 
