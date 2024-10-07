@@ -5,8 +5,6 @@ JavaScript ninja and part-time rock climber, I tackle bugs like they're boulders
 
 📫Reach me here: **mustaficjasmin7@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-
 <h4>Languages:</h4>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
