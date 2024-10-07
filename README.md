@@ -67,6 +67,4 @@ JavaScript ninja and part-time rock climber, I tackle bugs like they're boulders
 </p>
 
 
-[![CruxCoder's GitHub | Languages Over Time](https://stats.quira.sh/CruxCoder/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=CruxCoder)
-
-[![CruxCoder's GitHub | Stats](https://stats.quira.sh/CruxCoder/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=CruxCoder)
+[![CruxCoder's GitHub | Stats](https://stats.quira.sh/CruxCoder/github?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=CruxCoder)
