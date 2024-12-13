@@ -1,5 +1,4 @@
-# 💫 Hey there 👋, I'm Jasmin
-## Full Stack Software Developer
+# 💫 Hey there 👋, I'm Jasmin <br /> A Full Stack Software Developer
 
 📫Reach me here: **mustaficjasmin7@gmail.com**
 
